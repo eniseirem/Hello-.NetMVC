@@ -3,8 +3,9 @@
     "",
     "\\HelloWorld",
     "\\HelloWorld\\Controllers",
-    "\\HelloWorld\\Models"
+    "\\HelloWorld\\Views",
+    "\\HelloWorld\\Views\\Orders"
   ],
-  "SelectedNode": "\\HelloWorld.sln",
+  "SelectedNode": "\\HelloWorld\\Controllers\\OrdersController.cs",
   "PreviewInSolutionExplorer": false
 }
